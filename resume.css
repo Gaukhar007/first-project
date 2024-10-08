@@ -1,0 +1,77 @@
+body {
+    background-color: #ffffff; /* Белый фон */
+    color: #000; /* Черный текст */
+    }
+.profile-container {
+    width: 350px;
+}
+.profile-header {
+    margin-bottom: 20px;
+}
+.profile-header img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    display: flex;
+}
+.username {
+    font-size: 24px;
+    margin-top: 20px;
+}
+.bio {
+    font-size: 14px;
+    margin: 10px;
+}
+.followers-following {
+    display: flex;
+ 
+    margin: 20px 0;
+   
+}
+.followers-following div {
+    width: 30%;
+}
+.followers-following div span {
+    display: block;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+   
+
+.highlights {
+    
+    
+    align-items: center;
+    margin: 20px;
+}
+
+.highlight-item img {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+
+
+table {
+    width: 70%;
+   
+    margin-top: 20px;
+}
+
+th, td {
+ 
+    border: 1px solid #ddd;
+    text-align: left;
+}
+
+th {
+    background-color: #f4f4f4;
+}
